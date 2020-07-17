@@ -24,4 +24,7 @@ Desenvolvedor ADVPL há mais de 10 anos e grande entusiasta de tecnologias WEB.
 <img src="https://img.shields.io/static/v1?label=JavaScript&message=Estudando&color=blue&style=flat-square"><br>
 <img src="https://img.shields.io/static/v1?label=React.js&message=Estudando&color=blue&style=flat-square"><br>
 <img src="https://img.shields.io/static/v1?label=React%20Native&message=Estudando&color=blue&style=flat-square"><br>
+<img src="https://img.shields.io/static/v1?label=TypeScript&message=Estudando&color=blue&style=flat-square"><br>
 <img src="https://img.shields.io/static/v1?label=Angular&message=Estudando&color=blue&style=flat-square"><br>
+<img src="https://img.shields.io/static/v1?label=AngularJS&message=Estudando&color=blue&style=flat-square"><br>
+<img src="https://img.shields.io/static/v1?label=Electron&message=Estudando&color=blue&style=flat-square"><br>
