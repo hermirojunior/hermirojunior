@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 </h1><br>
-- Atualmente 
+- Atualmente<br>
 <img src="https://img.shields.io/badge/ADVPL-Nivel%3A%20S%C3%AAnior-brightgreen">
 
 
