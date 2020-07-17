@@ -13,7 +13,7 @@
 Desenvolvedor ADVPL há mais de 10 anos e grande entusiasta de tecnologias WEB.
 
 <b> O que busco?</b><br>
- - [X] Colaborar com a comunidade como um todo com meus conhecimentos atuais e futuros.<br>
+ - [X] Colaborar com a comunidade como um todo com meus conhecimentos atuais e futuros.<br><br>
   
 <b>Trilha de Conhecimento</b><br><br>
 <img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square"><br>
