@@ -11,7 +11,5 @@
 </h1><br>
 
 - Desenvolvimentos Atuais.<br>
-Futuro Desenvolvedor (Node.js, React.js, Angular, Electron)
-
-<img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square">
+<p><img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square"></p>
 
