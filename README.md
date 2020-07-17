@@ -10,6 +10,12 @@
 </a>
 </h1><br>
 
-- Desenvolvimentos Atuais.<br>
-<p><img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square"></p>
+- Desenvolvimentos Atuais:<br>
+<img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square">
+<img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square">
+<img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square">
 
+-Desenvolvimentos Futuros:
+<img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square">
+<img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square">
+<img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square">
