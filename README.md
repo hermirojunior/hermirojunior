@@ -9,12 +9,9 @@
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 </h1><br>
-- Atualmente<br>
-<img src="https://img.shields.io/badge/ADVPL-Nivel%3A%20S%C3%AAnior-brightgreen">
 
-
-- Desde os primórdios da humanidade.<br>
+- Desenvolvimentos Atuais.<br>
 Futuro Desenvolvedor (Node.js, React.js, Angular, Electron)
 
-<img src="https://img.shields.io/static/v1?label=TOTVS%20Protheus&message=Conteudos%20sobre%20desenvolvimento%20ADVPL&color=blue&style=flat-square">
-<img src="https://img.shields.io/badge/AngularJS-%#E23237.svg?&style=for-the-badge&logo=AngularJS&logoColor=white"">
+<img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square">
+
