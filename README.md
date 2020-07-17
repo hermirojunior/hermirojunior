@@ -10,6 +10,13 @@
 </a>
 </h1><br>
 
+Desenvolvedor ADVPL e grande entusiasta de tecnologias WEB.
+
+<b> O que busco?
+ - [X] Colaborar com a comunidade como um todo com meus conhecimentos atuais e futuros.
+  
+  
+  
 - <b>Conhecimentos Atuais:</b><br>
 <img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square"><br>
 <img src="https://img.shields.io/static/v1?label=HTML&message=Desenvolvedor&color=blue&style=flat-square"><br>
