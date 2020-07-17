@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/gmail-%23E60012.svg?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a>
-  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white">
+  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
  </a>
 </h1><br>
 <img src="https://img.shields.io/badge/ADVPL-Nivel%3A%20S%C3%AAnior-brightgreen">
