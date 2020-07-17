@@ -15,8 +15,8 @@
 <img src="https://img.shields.io/static/v1?label=HTML&message=Desenvolvedor&color=blue&style=flat-square"><br>
 <img src="https://img.shields.io/static/v1?label=CSS&message=Estudando&color=blue&style=flat-square"><br>
 
--Desenvolvimentos Futuros:
-<img src="https://img.shields.io/static/v1?label=JavaScript&message=Estudando&color=blue&style=flat-square">
-<img src="https://img.shields.io/static/v1?label=React.js&message=Estudando%20ADVPL&color=blue&style=flat-square">
-<img src="https://img.shields.io/static/v1?label=React%20Native&message=Estudando%20ADVPL&color=blue&style=flat-square">
-<img src="https://img.shields.io/static/v1?label=Angular&message=Estudando%20ADVPL&color=blue&style=flat-square">
+- <b>Desenvolvimentos Futuros:</b><br>
+<img src="https://img.shields.io/static/v1?label=JavaScript&message=Estudando&color=blue&style=flat-square"><br>
+<img src="https://img.shields.io/static/v1?label=React.js&message=Estudando%20ADVPL&color=blue&style=flat-square"><br>
+<img src="https://img.shields.io/static/v1?label=React%20Native&message=Estudando%20ADVPL&color=blue&style=flat-square"><br>
+<img src="https://img.shields.io/static/v1?label=Angular&message=Estudando%20ADVPL&color=blue&style=flat-square"><br>
