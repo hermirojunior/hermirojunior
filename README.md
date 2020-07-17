@@ -13,7 +13,7 @@
 - <b>Conhecimentos Atuais:</b><br>
 <img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square"><br>
 <img src="https://img.shields.io/static/v1?label=HTML&message=Desenvolvedor&color=blue&style=flat-square"><br>
-<img src="https://img.shields.io/static/v1?label=CSS&message=Estudando&color=blue&style=flat-square"><br>
+<img src="https://img.shields.io/static/v1?label=CSS&message=Desenvolvedor&color=blue&style=flat-square"><br>
 
 - <b>Desenvolvimentos Futuros:</b><br>
 <img src="https://img.shields.io/static/v1?label=JavaScript&message=Estudando&color=blue&style=flat-square"><br>
