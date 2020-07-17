@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:hermirofsjr@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/gmail-%23E60012.svg?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a>
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white">
