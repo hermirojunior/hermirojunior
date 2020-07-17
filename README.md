@@ -15,12 +15,12 @@ Desenvolvedor ADVPL há mais de 10 anos e grande entusiasta de tecnologias WEB.
 <b> O que busco?</b><br>
  - [X] Colaborar com a comunidade como um todo com meus conhecimentos atuais e futuros.<br>
   
-<b>Trilha de Conhecimento</b><br>
+<b>Trilha de Conhecimento</b><br><br>
 <img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square"><br>
 <img src="https://img.shields.io/static/v1?label=HTML&message=Desenvolvedor&color=blue&style=flat-square"><br>
 <img src="https://img.shields.io/static/v1?label=CSS&message=Desenvolvedor&color=blue&style=flat-square"><br>
 
-<b>Trilha de Aprendizado</b><br>
+<b>Trilha de Aprendizado</b><br><br>
 <img src="https://img.shields.io/static/v1?label=JavaScript&message=Estudando&color=blue&style=flat-square"><br>
 <img src="https://img.shields.io/static/v1?label=React.js&message=Estudando&color=blue&style=flat-square"><br>
 <img src="https://img.shields.io/static/v1?label=React%20Native&message=Estudando&color=blue&style=flat-square"><br>
